@@ -1,0 +1,11 @@
+*{
+    background-image: linear-gradient(to right, #A1FB8E, #28A171)
+}
+#div-login{
+    text-align: center;
+    max-width: 300px;
+    align-items: center;
+}
+#img-perfil{
+    width: 150px;
+}
